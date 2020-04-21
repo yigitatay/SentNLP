@@ -1,0 +1,1 @@
+Thought about using GloVe vectors to represent words, but might not work for this dataset since there are things like "soooooo" or "tiiiiired"
